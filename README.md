@@ -1,0 +1,1 @@
+需要安装opencv sdk，项目配置opencv的include 和lib目录
